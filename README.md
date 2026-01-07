@@ -1,4 +1,3 @@
-![MasterHead](https://camo.githubusercontent.com/b94b5d288de48447469eb181d569ccdc656cb5a7635a84fa0c2c5a31050459eb/68747470733a2f2f6d756c7469636f64652e696f2f77702d636f6e74656e742f75706c6f6164732f323032332f31312f626c61636b2d65313730303331343835353233392e6a7067)
 <h1 align="center">Hi 👋, I'm Yakup Emre Yerli</h1>
 <h3 align="center">A passionate fullstack developer from Türkiye</h3>
 
