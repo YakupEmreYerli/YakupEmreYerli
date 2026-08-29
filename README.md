@@ -1,6 +1,6 @@
 <h1 align="center">Yakup Emre Yerli</h1>
-<p align="center">Türkiye merkezli fullstack developer — otomasyon araçları ve AI/agent entegrasyonları üzerine çalışıyorum.</p>
-<p align="center"><sub>🇬🇧 Fullstack developer from Türkiye, building automation tooling and AI/agent integrations.</sub></p>
+<p align="center">Türkiye merkezli developer — otomasyon araçları ve AI/agent entegrasyonları üzerine çalışıyorum.</p>
+<p align="center"><sub>🇬🇧 Developer from Türkiye, building automation tooling and AI/agent integrations.</sub></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yakupemreyerli&label=Profile%20views&color=393c8a&style=flat" alt="Profile views" />
