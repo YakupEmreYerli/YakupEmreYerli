@@ -12,7 +12,6 @@ Geliştirici araçlarını ve otomasyonları uçtan uca kendim yazıyorum — LL
 ## Neler geliştiriyorum
 
 - **[mcp-firefly-iii](https://github.com/YakupEmreYerli/mcp-firefly-iii)** — Firefly III için MCP server; AI asistanlara kişisel finans verisine güvenli, kontrollü erişim sağlıyor.
-- **[opencode-codex-integration](https://github.com/YakupEmreYerli/opencode-codex-integration)** — OpenCode içinde Codex CLI'ı kalıcı oturum desteğiyle çalıştıran entegrasyon.
 - **[Convetta](https://github.com/YakupEmreYerli/Convetta)** — Tarayıcıdan çıkmadan çalışan, ücretsiz görsel dönüştürücü ve boyutlandırıcı.
 - **[Wiki-Cleaner](https://github.com/YakupEmreYerli/Wiki-Cleaner)** — Wikipedia okuma deneyimini sadeleştiren Firefox eklentisi.
 
