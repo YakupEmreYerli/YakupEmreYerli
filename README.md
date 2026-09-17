@@ -15,6 +15,11 @@ Geliştirici araçlarını ve otomasyonları uçtan uca kendim yazıyorum — LL
 - **[Convetta](https://github.com/YakupEmreYerli/Convetta)** — Tarayıcıdan çıkmadan çalışan, ücretsiz görsel dönüştürücü ve boyutlandırıcı.
 - **[Wiki-Cleaner](https://github.com/YakupEmreYerli/Wiki-Cleaner)** — Wikipedia okuma deneyimini sadeleştiren Firefox eklentisi.
 
+## Açık kaynak katkıları
+
+- **[vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)** — CLI daemon'un açılışta CouchDB'den kayıt silmesine yol açan tarama hatası için düzeltme ve regresyon testleri ([#1188](https://github.com/vrtmrz/obsidian-livesync/pull/1188)). Uyarlanarak 1.0.29 sürümüne girdi, sürüm notunda anıldım ([#1191](https://github.com/vrtmrz/obsidian-livesync/pull/1191), [#1192](https://github.com/vrtmrz/obsidian-livesync/pull/1192)).
+- **[firefly-iii/docs](https://github.com/firefly-iii/docs)** — Firefly III MCP Server, resmî dokümantasyondaki üçüncü parti uygulamalar listesine eklendi ([#259](https://github.com/firefly-iii/docs/pull/259), [#260](https://github.com/firefly-iii/docs/pull/260)).
+
 ## Tech stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
