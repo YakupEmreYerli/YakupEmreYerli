@@ -1,39 +1,26 @@
-<h1 align="center">Yakup Emre Yerli</h1>
-<p align="center">Türkiye merkezli developer — otomasyon araçları ve AI/agent entegrasyonları üzerine çalışıyorum.</p>
-<p align="center"><sub>🇬🇧 Developer from Türkiye, building automation tooling and AI/agent integrations.</sub></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img src="assets/banner-light.png" alt="Yakup Emre Yerli, independent developer. Automation, MCP, AI agents." width="100%">
+</picture>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yakupemreyerli&label=Profile%20views&color=393c8a&style=flat" alt="Profile views" />
-  <a href="https://yakupemreyerli.com"><img src="https://img.shields.io/badge/site-yakupemreyerli.com-393c8a?style=flat" alt="Website" /></a>
-</p>
+Independent developer from Türkiye. I build websites for small businesses, automation and bots, MCP servers that connect AI agents to real services, and desktop tools for Linux.
 
-Geliştirici araçlarını ve otomasyonları uçtan uca kendim yazıyorum — LLM'leri gerçek sistemlere bağlayan MCP server'lardan, Docker'lı web uygulamalarına ve tarayıcı eklentilerine kadar. Yaptıklarımın çoğu açık kaynak, aşağıda.
+## Selected work
 
-## Neler geliştiriyorum
+- **[mcp-firefly-iii](https://github.com/YakupEmreYerli/mcp-firefly-iii)**: security-first, self-hosted MCP server for Firefly III. 152 operations behind 5 scoped tools, stdio and authenticated HTTP. Listed in the official Firefly III docs.
+- **[mcp-midas](https://github.com/YakupEmreYerli/mcp-midas)**: unofficial MCP server for Midas Atlas. Reads portfolio, transaction history and technicals; order tools are off by default and every order needs desktop approval.
+- **[Convetta](https://github.com/YakupEmreYerli/Convetta)**: free online image converter and resizer at [convetta.com](https://www.convetta.com). JPG, PNG and WEBP conversion never leaves the browser. SvelteKit, Docker.
+- **[oriel](https://github.com/YakupEmreYerli/oriel)**: notes and docs on your own server, with nested pages, a block editor and databases in table and board views.
+- **[tray-grid](https://github.com/YakupEmreYerli/tray-grid)**: Windows-style hidden tray icon grid for KDE Plasma 6.
+- **[Wiki-Cleaner](https://github.com/YakupEmreYerli/Wiki-Cleaner)**: Firefox extension that turns Wikipedia's internal links into plain text and hides citation markers.
 
-- **[mcp-firefly-iii](https://github.com/YakupEmreYerli/mcp-firefly-iii)** — Firefly III için MCP server; AI asistanlara kişisel finans verisine güvenli, kontrollü erişim sağlıyor.
-- **[Convetta](https://github.com/YakupEmreYerli/Convetta)** — Tarayıcıdan çıkmadan çalışan, ücretsiz görsel dönüştürücü ve boyutlandırıcı.
-- **[Wiki-Cleaner](https://github.com/YakupEmreYerli/Wiki-Cleaner)** — Wikipedia okuma deneyimini sadeleştiren Firefox eklentisi.
+## Open-source contributions
 
-## Açık kaynak katkıları
+- **[vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)**: fix and regression tests for a startup scan that could delete records from CouchDB in the CLI daemon ([#1188](https://github.com/vrtmrz/obsidian-livesync/pull/1188)). Adapted and released in 1.0.29 ([#1191](https://github.com/vrtmrz/obsidian-livesync/pull/1191), [#1192](https://github.com/vrtmrz/obsidian-livesync/pull/1192)).
+- **[firefly-iii/docs](https://github.com/firefly-iii/docs)**: added the Firefly III MCP server to the official third-party apps list ([#259](https://github.com/firefly-iii/docs/pull/259), [#260](https://github.com/firefly-iii/docs/pull/260)).
 
-- **[vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)** — CLI daemon'un açılışta CouchDB'den kayıt silmesine yol açan tarama hatası için düzeltme ve regresyon testleri ([#1188](https://github.com/vrtmrz/obsidian-livesync/pull/1188)). Uyarlanarak 1.0.29 sürümüne girdi, sürüm notunda anıldım ([#1191](https://github.com/vrtmrz/obsidian-livesync/pull/1191), [#1192](https://github.com/vrtmrz/obsidian-livesync/pull/1192)).
-- **[firefly-iii/docs](https://github.com/firefly-iii/docs)** — Firefly III MCP Server, resmî dokümantasyondaki üçüncü parti uygulamalar listesine eklendi ([#259](https://github.com/firefly-iii/docs/pull/259), [#260](https://github.com/firefly-iii/docs/pull/260)).
+## Türkçe
 
-## Tech stack
+Türkiye'den bağımsız geliştiriciyim. Küçük işletmeler için web siteleri, otomasyon ve botlar, yapay zekâ ajanlarını gerçek servislere bağlayan MCP sunucuları ve Linux için masaüstü araçları yazıyorum.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6E56CF?style=flat)
-
-## İstatistikler
-
-<p align="left">
-  <img src="https://github-readme-stats-psi-two-70.vercel.app/api?username=YakupEmreYerli&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats-psi-two-70.vercel.app/api/top-langs/?username=YakupEmreYerli&layout=compact&hide_border=true" alt="Top languages" height="165" />
-</p>
+[yakupemreyerli.com](https://yakupemreyerli.com) · [LinkedIn](https://www.linkedin.com/in/yakupemreyerli/)
