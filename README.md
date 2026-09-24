@@ -17,6 +17,7 @@ Independent developer from Türkiye. I build websites for small businesses, auto
 ## Open-source contributions
 
 - **[vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)**: fix and regression tests for a startup scan that could delete records from CouchDB in the CLI daemon ([#1188](https://github.com/vrtmrz/obsidian-livesync/pull/1188)). Adapted and released in 1.0.29 ([#1191](https://github.com/vrtmrz/obsidian-livesync/pull/1191), [#1192](https://github.com/vrtmrz/obsidian-livesync/pull/1192)).
+- **[saidsurucu/borsa-mcp](https://github.com/saidsurucu/borsa-mcp)**: adapted the Mynet stock list parser to the site's new layout; while it was broken, KAP news lookups quietly came back empty ([#18](https://github.com/saidsurucu/borsa-mcp/pull/18)).
 - **[firefly-iii/docs](https://github.com/firefly-iii/docs)**: added the Firefly III MCP server to the official third-party apps list ([#259](https://github.com/firefly-iii/docs/pull/259), [#260](https://github.com/firefly-iii/docs/pull/260)).
 
 ## Türkçe
