@@ -5,6 +5,11 @@
 
 Independent developer from Türkiye. I build websites for small businesses, automation and bots, MCP servers that connect AI agents to real services, and desktop tools for Linux.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="GitHub contribution calendar in 3D" width="100%">
+</picture>
+
 ## Selected work
 
 - **[mcp-firefly-iii](https://github.com/YakupEmreYerli/mcp-firefly-iii)**: security-first, self-hosted MCP server for Firefly III. 152 operations behind 5 scoped tools, stdio and authenticated HTTP. Listed in the official Firefly III docs.
