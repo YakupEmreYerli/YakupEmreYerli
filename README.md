@@ -23,8 +23,8 @@ Independent developer from Türkiye. I build websites for small businesses, auto
 ## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/dark.svg">
-  <img src="profile-3d-contrib/light.svg" alt="GitHub contribution calendar in 3D" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="activity/dark.svg">
+  <img src="activity/light.svg" alt="Contribution activity over the last year" width="100%">
 </picture>
 
 ## Türkçe

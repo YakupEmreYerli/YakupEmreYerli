@@ -1,4 +1,4 @@
-name: Profile 3D contributions
+name: Activity graph
 
 on:
   schedule: # 03:00 Türkiye == 00:00 UTC
@@ -13,16 +13,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+      - name: Draw graph
+        run: python3 .github/scripts/activity.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: .github/profile-3d.json
       - name: Commit & push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A profile-3d-contrib
-          if git commit -m "chore: update contribution graph"; then
+          git add -A activity
+          if git commit -m "chore: update activity graph"; then
             git push
           fi
