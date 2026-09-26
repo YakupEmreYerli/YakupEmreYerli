@@ -5,11 +5,6 @@
 
 Independent developer from Türkiye. I build websites for small businesses, automation and bots, MCP servers that connect AI agents to real services, and desktop tools for Linux.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="GitHub contribution calendar in 3D" width="100%">
-</picture>
-
 ## Selected work
 
 - **[mcp-firefly-iii](https://github.com/YakupEmreYerli/mcp-firefly-iii)**: security-first, self-hosted MCP server for Firefly III. 152 operations behind 5 scoped tools, stdio and authenticated HTTP. Listed in the official Firefly III docs.
@@ -24,6 +19,15 @@ Independent developer from Türkiye. I build websites for small businesses, auto
 - **[vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)**: fix and regression tests for a startup scan that could delete records from CouchDB in the CLI daemon ([#1188](https://github.com/vrtmrz/obsidian-livesync/pull/1188)). Adapted and released in 1.0.29 ([#1191](https://github.com/vrtmrz/obsidian-livesync/pull/1191), [#1192](https://github.com/vrtmrz/obsidian-livesync/pull/1192)).
 - **[saidsurucu/borsa-mcp](https://github.com/saidsurucu/borsa-mcp)**: adapted the Mynet stock list parser to the site's new layout; while it was broken, KAP news lookups quietly came back empty ([#18](https://github.com/saidsurucu/borsa-mcp/pull/18)).
 - **[firefly-iii/docs](https://github.com/firefly-iii/docs)**: added the Firefly III MCP server to the official third-party apps list ([#259](https://github.com/firefly-iii/docs/pull/259), [#260](https://github.com/firefly-iii/docs/pull/260)).
+
+## Activity
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/dark.svg">
+  <img src="profile-3d-contrib/light.svg" alt="GitHub contribution calendar in 3D" width="640">
+</picture>
+</p>
 
 ## Türkçe
 
