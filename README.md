@@ -11,8 +11,13 @@ Independent developer from Türkiye. I build websites for small businesses, auto
 - **[mcp-midas](https://github.com/YakupEmreYerli/mcp-midas)**: unofficial MCP server for Midas Atlas. Reads portfolio, transaction history and technicals; order tools are off by default and every order needs desktop approval.
 - **[Convetta](https://github.com/YakupEmreYerli/Convetta)**: free online image converter and resizer at [convetta.com](https://www.convetta.com). JPG, PNG and WEBP conversion never leaves the browser. SvelteKit, Docker.
 - **[oriel](https://github.com/YakupEmreYerli/oriel)**: notes and docs on your own server, with nested pages, a block editor and databases in table and board views.
+- **[desktop](https://github.com/YakupEmreYerli/desktop)**: GitHub Desktop fork for Windows and Linux with PDF, SVG and HTML previews in diffs, AI commit messages and repository groups.
+- **[ente-auth-plasmoid](https://github.com/YakupEmreYerli/ente-auth-plasmoid)**: Ente Auth two-factor codes in the KDE Plasma panel. Search, click to copy, synced with Ente, locked in memory; Rust core.
+- **[tuya-light](https://github.com/YakupEmreYerli/tuya-light)**: controls Tuya Wi-Fi bulbs over the local network, from a Plasma 6 panel widget, the command line or an MCP server.
 - **[tray-grid](https://github.com/YakupEmreYerli/tray-grid)**: Windows-style hidden tray icon grid for KDE Plasma 6.
+- **[yakupemre-sddm](https://github.com/YakupEmreYerli/yakupemre-sddm)**: calm SDDM login theme with a glacier lake, frosted panel and minimal power buttons. Qt 6, English and Turkish.
 - **[Wiki-Cleaner](https://github.com/YakupEmreYerli/Wiki-Cleaner)**: Firefox extension that turns Wikipedia's internal links into plain text and hides citation markers.
+- **[headmap](https://github.com/YakupEmreYerli/headmap)**: browser extension that shows the title, meta tags and H1–H6 outline of any page at a glance.
 
 ## Open-source contributions
 
