@@ -16,6 +16,7 @@ Independent developer from Türkiye. I build websites for small businesses, auto
 - **[tuya-light](https://github.com/YakupEmreYerli/tuya-light)**: controls Tuya Wi-Fi bulbs over the local network, no cloud round trip: a Plasma 6 panel widget with a colour wheel and scenes, a command line, and an MCP server for AI assistants.
 - **[tray-grid](https://github.com/YakupEmreYerli/tray-grid)**: Windows-style hidden tray icon grid for KDE Plasma 6. Talks to tray apps over D-Bus like Plasma's own tray, so Electron, Qt and GTK apps all show up and update live.
 - **[yakupemre-sddm](https://github.com/YakupEmreYerli/yakupemre-sddm)**: calm SDDM login theme with a glacier lake, frosted panel, round avatar and no username box, just the password. Minimal power buttons; Qt 6, English and Turkish.
+- **[yakupemre-lockscreen](https://github.com/YakupEmreYerli/yakupemre-lockscreen)**: Plasma 6 lock screen to match yakupemre-sddm: same glacier lake, frosted panel, clock and round avatar, so locking and logging in look like one screen. Media controls and a Caps Lock warning; English and Turkish.
 - **[Wiki-Cleaner](https://github.com/YakupEmreYerli/Wiki-Cleaner)**: Firefox extension that turns Wikipedia's internal links into plain text and hides citation markers. No network requests, no data collection; signed by Mozilla.
 - **[headmap](https://github.com/YakupEmreYerli/headmap)**: browser extension that shows the title, meta tags and H1–H6 outline of any page at a glance, warns about missing or skipped headings and copies it all as a table.
 
