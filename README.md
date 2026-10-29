@@ -3,7 +3,7 @@
   <img src="assets/banner-light.png" alt="Yakup Emre Yerli, independent developer. Automation, MCP, AI agents." width="100%">
 </picture>
 
-Independent developer from Türkiye. I build websites for small businesses, automation and bots, MCP servers that connect AI agents to real services, and desktop tools for Linux.
+Independent developer from Türkiye. I build websites, automation and bots, MCP servers that connect AI agents to real services, and desktop tools for Linux.
 
 ## Selected work
 
@@ -35,6 +35,6 @@ Independent developer from Türkiye. I build websites for small businesses, auto
 
 ## Türkçe
 
-Türkiye'den bağımsız geliştiriciyim. Küçük işletmeler için web siteleri, otomasyon ve botlar, yapay zekâ ajanlarını gerçek servislere bağlayan MCP sunucuları ve Linux için masaüstü araçları yazıyorum.
+Türkiye'den bağımsız geliştiriciyim. Web siteleri, otomasyon ve botlar, yapay zekâ ajanlarını gerçek servislere bağlayan MCP sunucuları ve Linux için masaüstü araçları yazıyorum.
 
 [yakupemreyerli.com](https://yakupemreyerli.com) · [LinkedIn](https://www.linkedin.com/in/yakupemreyerli/)
