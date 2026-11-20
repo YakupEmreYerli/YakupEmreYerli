@@ -7,6 +7,7 @@ Independent developer from Türkiye. I build websites, automation and bots, MCP 
 
 ## Selected work
 
+- **[Coinio](https://github.com/YakupEmreYerli/coinio)**: self-hosted subscription and bill tracker in one Docker container. Reminders by email, Telegram, Discord, ntfy and more, a built-in MCP server so AI assistants can read and update your subscriptions, an iPhone widget and eight languages. [getcoinio.me](https://getcoinio.me)
 - **[mcp-firefly-iii](https://github.com/YakupEmreYerli/mcp-firefly-iii)**: security-first, self-hosted MCP server for Firefly III. 152 operations behind 5 scoped tools, stdio and authenticated HTTP. Listed in the official Firefly III docs.
 - **[mcp-midas](https://github.com/YakupEmreYerli/mcp-midas)**: unofficial MCP server for Midas Atlas. Reads portfolio, transaction history and technicals; order tools are off by default and every order needs desktop approval.
 - **[tplink-modem-mcp](https://github.com/YakupEmreYerli/tplink-modem-mcp)**: MCP server that lets an AI assistant see who is on a TP-Link router or ISP modem, their Wi-Fi signal, the router logs and when each device dropped off. Supports older ISP firmwares such as Türk Telekom's Archer C5v; one `uvx` command from PyPI.
@@ -28,6 +29,7 @@ Independent developer from Türkiye. I build websites, automation and bots, MCP 
 - **[vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)**: fix and regression tests for a startup scan that could delete records from CouchDB in the CLI daemon ([#1188](https://github.com/vrtmrz/obsidian-livesync/pull/1188)). Adapted and released in 1.0.29 ([#1191](https://github.com/vrtmrz/obsidian-livesync/pull/1191), [#1192](https://github.com/vrtmrz/obsidian-livesync/pull/1192)).
 - **[saidsurucu/borsa-mcp](https://github.com/saidsurucu/borsa-mcp)**: adapted the Mynet stock list parser to the site's new layout; while it was broken, KAP news lookups quietly came back empty ([#18](https://github.com/saidsurucu/borsa-mcp/pull/18)).
 - **[firefly-iii/docs](https://github.com/firefly-iii/docs)**: added the Firefly III MCP server to the official list of third-party apps, then kept the entry accurate as the server changed ([#259](https://github.com/firefly-iii/docs/pull/259), [#260](https://github.com/firefly-iii/docs/pull/260)).
+- **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)**: added the Firefly III MCP server to the Finance & Fintech list ([#13247](https://github.com/punkpeye/awesome-mcp-servers/pull/13247)).
 
 ## Activity
 
