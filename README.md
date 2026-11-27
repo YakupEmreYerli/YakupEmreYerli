@@ -1,27 +1,32 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" alt="Yakup Emre Yerli, independent developer. Automation, MCP, AI agents." width="100%">
+  <img src="assets/banner-light.png" alt="Yakup Emre Yerli, independent developer. Client websites, products, AI agent tools and Linux desktop." width="100%">
 </picture>
 
-Independent developer from Türkiye. I build websites, automation and bots, MCP servers that connect AI agents to real services, and desktop tools for Linux.
+Independent developer from Türkiye. I build websites and web apps for businesses, my own open-source products, and command-line and MCP tools that connect AI agents to real services.
 
-## Selected work
+## Client work
 
-- **[Coinio](https://github.com/YakupEmreYerli/coinio)**: self-hosted subscription and bill tracker in one Docker container. Reminders by email, Telegram, Discord, ntfy and more, a built-in MCP server so AI assistants can read and update your subscriptions, an iPhone widget and eight languages. [getcoinio.me](https://getcoinio.me)
-- **[mcp-firefly-iii](https://github.com/YakupEmreYerli/mcp-firefly-iii)**: security-first, self-hosted MCP server for Firefly III. 152 operations behind 5 scoped tools, stdio and authenticated HTTP. Listed in the official Firefly III docs.
-- **[mcp-midas](https://github.com/YakupEmreYerli/mcp-midas)**: unofficial MCP server for Midas Atlas. Reads portfolio, transaction history and technicals; order tools are off by default and every order needs desktop approval.
-- **[tplink-modem-mcp](https://github.com/YakupEmreYerli/tplink-modem-mcp)**: MCP server that lets an AI assistant see who is on a TP-Link router or ISP modem, their Wi-Fi signal, the router logs and when each device dropped off. Supports older ISP firmwares such as Türk Telekom's Archer C5v; one `uvx` command from PyPI.
-- **[Convetta](https://github.com/YakupEmreYerli/Convetta)**: free online image converter and resizer at [convetta.com](https://www.convetta.com). JPG, PNG and WEBP conversion never leaves the browser; GIF, ICO and PDF are made on the server with ImageMagick. SvelteKit, Docker.
-- **[desktop](https://github.com/YakupEmreYerli/desktop)**: GitHub Desktop fork for Windows and Linux with PDF, SVG and HTML previews in diffs, repository groups and AI commit messages from your Claude subscription, DeepSeek or OpenRouter. Pushes to self-hosted Forgejo, Gitea and GitLab with your own git credential helpers, and installs on Windows with a setup wizard.
+- **[eniyifilmler.com](https://eniyifilmler.com)**: Turkish film discovery site. It helps you pick what to watch and shows where a film streams in Turkey.
+- **[korfezhalimobilya.com.tr](https://www.korfezhalimobilya.com.tr/)**: site of a furniture and appliance dealer in İzmit with several stores: product catalogue, stores and deals in one place.
+- **[halitucar.com.tr](https://www.halitucar.com.tr/)**: news-style personal site for an industrialist and writer, rebuilt from scratch.
+- **[artvinbali.com](https://www.artvinbali.com)**: online honey shop, from design to launch.
+
+More on [yakupemreyerli.com](https://yakupemreyerli.com/projects/).
+
+## Open source
+
 - **[IconShuffle](https://github.com/YakupEmreYerli/IconShuffle)**: rearrange an iPhone home screen from your computer, on Windows, macOS or Linux. Drag your real icons in a mirror of the phone or tell your AI agent what you want; every write is backed up, read back and rolled back if it doesn't match. [iconshuffle.app](https://iconshuffle.app)
+- **[Coinio](https://github.com/getcoinio/coinio)**: self-hosted subscription and bill tracker in one Docker container. Family plans, reminders by email, Telegram, Discord and more, a built-in MCP server, Firefly III sync, an iPhone widget and eight languages. [getcoinio.me](https://getcoinio.me)
+- **[mcp-firefly-iii](https://github.com/YakupEmreYerli/mcp-firefly-iii)**: security-first, self-hosted MCP server and CLI for Firefly III. 152 operations behind 5 scoped tools or the `firefly-cli` command, stdio and authenticated HTTP. Listed in the official Firefly III docs.
+- **[mcp-midas](https://github.com/YakupEmreYerli/mcp-midas)**: unofficial MCP server and command-line tool for Midas Atlas. Reads portfolio, transaction history and technicals; order tools are off by default and every order needs desktop approval.
+- **[tplink-modem](https://github.com/YakupEmreYerli/tplink-modem)**: command line and MCP server for TP-Link routers and ISP modems: devices, Wi-Fi, logs, fixed IPs and every web-panel setting, each change previewed first. Supports older ISP firmwares such as Türk Telekom's Archer C5v; on PyPI.
 - **[ente-auth-plasmoid](https://github.com/YakupEmreYerli/ente-auth-plasmoid)**: Ente Auth two-factor codes in the KDE Plasma panel. Search, click to copy, synced with Ente; encrypted on disk and kept out of clipboard history. Rust core.
 - **[tuya-light](https://github.com/YakupEmreYerli/tuya-light)**: controls Tuya Wi-Fi bulbs over the local network, no cloud round trip: a Plasma 6 panel widget with a colour wheel and scenes, a command line, and an MCP server for AI assistants.
 - **[tray-grid](https://github.com/YakupEmreYerli/tray-grid)**: Windows-style hidden tray icon grid for KDE Plasma 6. Talks to tray apps over D-Bus like Plasma's own tray, so Electron, Qt and GTK apps all show up and update live.
-- **[kde-agents-usage](https://github.com/YakupEmreYerli/kde-agents-usage)**: KDE Plasma 6 widget for the usage limits left on Claude, Codex and Grok subscriptions. Fork that adds Grok and a three-bar tray icon, one bar per provider's 5-hour window; a second tab counts tokens by day and model from the local logs.
-- **[yakupemre-sddm](https://github.com/YakupEmreYerli/yakupemre-sddm)**: calm SDDM login theme with a glacier lake, frosted panel, round avatar and no username box, just the password. Minimal power buttons; Qt 6, English and Turkish.
-- **[yakupemre-lockscreen](https://github.com/YakupEmreYerli/yakupemre-lockscreen)**: Plasma 6 lock screen to match yakupemre-sddm: same glacier lake, frosted panel, clock and round avatar, so locking and logging in look like one screen. Media controls and a Caps Lock warning; English and Turkish.
-- **[Wiki-Cleaner](https://github.com/YakupEmreYerli/Wiki-Cleaner)**: Firefox extension that turns Wikipedia's internal links into plain text and hides citation markers. No network requests, no data collection; signed by Mozilla.
 - **[headmap](https://github.com/YakupEmreYerli/headmap)**: browser extension that shows the title, meta tags and H1–H6 outline of any page at a glance, warns about missing or skipped headings and copies it all as a table.
+
+Smaller pieces: [kde-agents-usage](https://github.com/YakupEmreYerli/kde-agents-usage) (Claude, Codex and Grok usage limits in the Plasma panel), and the matching login and lock screen themes [yakupemre-sddm](https://github.com/YakupEmreYerli/yakupemre-sddm) and [yakupemre-lockscreen](https://github.com/YakupEmreYerli/yakupemre-lockscreen).
 
 ## Open-source contributions
 
@@ -39,6 +44,6 @@ Independent developer from Türkiye. I build websites, automation and bots, MCP 
 
 ## Türkçe
 
-Türkiye'den bağımsız geliştiriciyim. Web siteleri, otomasyon ve botlar, yapay zekâ ajanlarını gerçek servislere bağlayan MCP sunucuları ve Linux için masaüstü araçları yazıyorum.
+Türkiye'den bağımsız geliştiriciyim. İşletmeler için web siteleri ve web uygulamaları, kendi açık kaynak ürünlerimi ve yapay zekâ ajanlarını gerçek servislere bağlayan komut satırı ve MCP araçları geliştiriyorum.
 
 [yakupemreyerli.com](https://yakupemreyerli.com) · [LinkedIn](https://www.linkedin.com/in/yakupemreyerli/)
