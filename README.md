@@ -33,6 +33,7 @@ Smaller pieces: [kde-agents-usage](https://github.com/YakupEmreYerli/kde-agents-
 - **[vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)**: fix and regression tests for a startup scan that could delete records from CouchDB in the CLI daemon ([#1188](https://github.com/vrtmrz/obsidian-livesync/pull/1188)). Adapted and released in 1.0.29 ([#1191](https://github.com/vrtmrz/obsidian-livesync/pull/1191), [#1192](https://github.com/vrtmrz/obsidian-livesync/pull/1192)).
 - **[saidsurucu/borsa-mcp](https://github.com/saidsurucu/borsa-mcp)**: adapted the Mynet stock list parser to the site's new layout; while it was broken, KAP news lookups quietly came back empty ([#18](https://github.com/saidsurucu/borsa-mcp/pull/18)).
 - **[firefly-iii/docs](https://github.com/firefly-iii/docs)**: added the Firefly III MCP server to the official list of third-party apps, then kept the entry accurate as the server changed ([#259](https://github.com/firefly-iii/docs/pull/259), [#260](https://github.com/firefly-iii/docs/pull/260)).
+- **[Dokploy/templates](https://github.com/Dokploy/templates)**: added a one-click Coinio template to Dokploy's template list ([#1369](https://github.com/Dokploy/templates/pull/1369)).
 - **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)**: added the Firefly III MCP server to the Finance & Fintech list ([#13247](https://github.com/punkpeye/awesome-mcp-servers/pull/13247)).
 
 ## Activity
